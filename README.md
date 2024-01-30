@@ -10,4 +10,5 @@ Al final de este curso, podrás:
 - comprender la computación en la nube, el concepto de "Todo como servicio" y el almacenamiento en la nube.
 
 
-
+> [!IMPORTANT]  
+> Pendiente por subir los videos de cada módulo.
