@@ -8,7 +8,3 @@ Al final de este curso, podrás:
 - comprender potentes herramientas y técnicas de solución de problemas de red.
 - conocer servicios de red como DNS y DHCP que facilitan el funcionamiento de las redes de computadoras.
 - comprender la computación en la nube, el concepto de "Todo como servicio" y el almacenamiento en la nube.
-
-
-> [!IMPORTANT]  
-> Pendiente por subir los videos de cada módulo.
