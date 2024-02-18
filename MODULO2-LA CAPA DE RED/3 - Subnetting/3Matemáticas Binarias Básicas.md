@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/1ZN4DAy2pLo)
+
 Los números binarios pueden parecer intimidantes al principio, ya que se ven tan diferentes de los números decimales. Pero, en lo que respecta a lo básico, la matemática subyacente a contar, sumar o restar números binarios es exactamente la misma que con los números decimales.
 
 Es importante señalar que no hay diferentes tipos de números. Los números son universales. Sólo hay diferentes notaciones para hacer referencia a ellos. Los humanos, muy probablemente porque casi todos tenemos diez dedos en las manos y otros diez en los pies, decidimos usar un sistema con diez cifras individuales para representar todos los números. Las cifras 0, 1, 2, 3, 4, 5, 6, 7, 8 y 9 se pueden combinar de diversas maneras para representar cualquier número entero que exista.

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/n1J7JTrzIZ4)
+
 La capa de transporte es responsable de muchas de las funciones importantes para la disponibilidad de una red de computadoras. Estas incluyen **multiplexing** y **demultiplexing**, para manejar el tráfico, estableciendo conexiones de larga duración y asegurando la integridad de los datos a través del chequeo de errores y la verificación de los datos.
 
 Al final de esta lección deberías describir qué es el multiplexing y demultiplexing, y cómo trabajan. Tendrás la capacidad de identificar la diferencia entre TCP y UDP, explicar el three-way handshake, y entender cómo los atributos de TCP son usados en este proceso. Finalmente, podrás describir de forma básica cómo los firewalls mantienen las redes seguras.

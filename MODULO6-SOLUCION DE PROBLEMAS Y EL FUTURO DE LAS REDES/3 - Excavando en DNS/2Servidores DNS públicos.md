@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/1n8k0AUHNlE)
+
 Tener un DNS funcional es una parte importante de una red funcional. Un ISP casi siempre te da acceso a un servidor de nombres recursivo como parte del servicio que brinda. En la mayoría de los casos, estos servidores de nombres son todo lo que realmente necesitas para que tu computadora se comunique con otros dispositivos en Internet.
 
 Pero, la mayoría de las empresas también ejecutan sus propios servidores DNS. Por lo menos, esto es necesario para resolver nombres de hosts internos. Desde definir el nombre de una computadora, Nayas/laptop, hasta poder referirse a una impresora por su nombre en lugar de una IP requiere que tengas tu propio servidor de nombres.

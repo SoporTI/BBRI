@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/z_gNmNP6HAw)
+
 Los **protocolos de puerta de enlace exterior** se usan para comunicar datos entre routers que representan el perímetro de un sistema autónomo. Como los routers que comparten datos usando protocolos de puerta de enlace interior están todos bajo el control de la misma organización, los routers usan protocolos de puerta de enlace exterior cuando necesitan compartir información entre diferentes organizaciones.
 
 Los protocolos de puerta de enlace exterior son realmente claves para que Internet funcione como lo hace hoy. Así, gracias a los protocolos de puerta de enlace exterior, Internet es una enorme malla de sistemas autónomos.

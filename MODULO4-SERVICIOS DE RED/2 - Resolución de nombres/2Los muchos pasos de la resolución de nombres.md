@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/fUhaXk6XJkU)
+
 En su forma más básica, DNS es un sistema que convierte nombres de dominio en direcciones IP. Es la forma en que los humanos recordarán y clasificarán las cosas resuelta en la forma en que las computadoras prefieren pensar las cosas. Este proceso de utilizar DNS para convertir un nombre de dominio en una dirección IP se conoce como resolución de nombres. Veamos cómo funciona esto más de cerca.
 
 Lo primero que es importante saber es que los servidores DNS son una de las cosas que deben configurarse específicamente en un nodo en una red. Para que una computadora funcione en una red moderna, tiene que tener cierta cantidad de cosas configuradas. Recuerda que las direcciones MAC están hard-coded y vinculadas a piezas específicas de hardware. Pero también vimos que la dirección IP, la máscara de subred, y la puerta de enlace para un host debe estar específicamente configuradas. Un servidor DNS es la cuarta y última parte de la configuración de la red moderna estándar. Estas son casi siempre las cuatro cosas que deben configurarse para que un host funcione en una red de la forma esperada.

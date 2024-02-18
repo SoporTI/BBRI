@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/0GVrFajf5sU)
+
 Cada dispositivo informático con el que interactuamos día a día es un dispositivo de red, ¿verdad? Las computadoras ya no son autónomas de ninguna manera: desde nuestro teléfono a nuestra tablet, nuestra laptop, a nuestros equipos de escritorio, todos están conectados en red de alguna forma, todos están comunicándose con otras computadoras.
 
 Mucha gente ve la red como una especie de magia negra. Y solo ciertas personas entienden de verdad lo que sucede. Pero en mi experiencia, una persona de soporte de TI que realmente entienda de redes a un nivel básico, puede llevar adelante todos los aspectos de su trabajo con mucho más éxito.

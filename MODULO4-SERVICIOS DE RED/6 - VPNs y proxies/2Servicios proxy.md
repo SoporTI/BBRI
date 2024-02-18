@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/heNBUnQzJWs)
+
 Un servicio proxy es un servidor que actúa en nombre de un cliente con el fin de acceder a otro servicio. Los proxies se ubican entre los clientes y otros servidores, y proporcionan ciertos beneficios adicionales: anonimato, seguridad, filtrado de contenidos, mayor desempeño, un par de otras cosas. Si algo de esto suena familiar, eso es bueno. Ya hemos visto algunos ejemplos específicos de proxies, como routers de puerta de enlace. No escucharás que los mencionen de esta manera, pero una puerta de enlace definitivamente cumple con la definición y el funcionamiento de un proxy.
 
 El concepto de proxy es solo eso, un concepto o una abstracción. No se refiere a ninguna implementación específica. Los proxies existen en casi todas las capas de nuestro modelo de red. Hay docenas y docenas de ejemplos de proxies que podrías encontrar en tu carrera, pero aquí vamos a ver solo algunos de los más comunes.

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/UH5HwG7dgw8)
+
 En el video anterior, dimos una pequeña definición de lo que es **cloud computing**, pero el término ha venido realmente a significar más que solo el hospedaje de máquinas virtuales. Otro término que es utilizado cada vez más con el auge de la computación en la nube es *X como un servicio*. En ella, la X puede significar cantidades de cosas.
 
 Hasta ahora, la forma en que mejor hemos descrito **la nube** probablemente sería definida como **infraestructura como un servicio** o **IaaS**. La idea detrás del término Infraestructura como servicio es que usted no deba preocuparse por construir su propia red de servidores. Usted solo paga por que alguien le provea ese servicio.

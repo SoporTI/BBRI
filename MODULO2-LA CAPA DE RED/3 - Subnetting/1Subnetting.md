@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/N7HX2fwdmSg)
+
 En los términos más simples, la subdivisión de redes es el proceso de tomar una red grande y dividirla en redes individuales más pequeñas llamadas subredes. Al final de esta lección, podrás explicar por qué la subdivisión de redes es necesaria y describir cómo las máscaras de subred amplían las posibilidades en comparación a las ID de red y de host. También podrás analizar cómo una técnica conocida como CIDR permite incluso tener más flexibilidad que la subdivisión sencilla de redes. Por último, podrás aplicar algunas técnicas básicas de matemáticas binarias para comprender mejor cómo funciona todo esto.
 
 Las configuraciones de subredes incorrectas son un problema común con el que puedes encontrarte como especialista en soporte de TI, por tal razón es importante tener una comprensión sólida de cómo funciona esto. Eso es bastante, así que vamos a profundizar.

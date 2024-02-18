@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/fB0L9jCY4ig)
+
 Las tecnologías de portadora-T fueron las primeras que inventó AT&T para ofrecer un sistema que permitiera que muchas llamadas de teléfono viajaran a través de un solo cable. Cada llamada de teléfono individual se cursaba sobre pares individuales de alambre de cobre antes del Sistema de Transmisión 1, la primera especificación de portadora-T llamada T1 para abreviar.
 
 Con la especificación T1, AT&T inventó una forma de llevar a cabo hasta 24 llamadas telefónicas simultáneas a través de un cable de par trenzado de cobre. Años después, se adaptó de nuevo la misma tecnología para transferencias de datos. Cada uno de los 24 canales telefónicos era capaz de transmitir datos a 64 kb/s, lo que permitía que una sola línea T1 pudiera transmitir datos a 1.544 Mb/s.

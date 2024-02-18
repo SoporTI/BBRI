@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/Z4NBcfx3rR8)
+
 # Lección sobre la Capa de Aplicación
 
 Les doy la bienvenida a nuestra lección sobre la capa de aplicación. Ya casi terminamos de ver todos los aspectos de nuestro módulo de redes, lo que significa que aprendiste cómo las computadoras procesan señales ópticas o eléctricas para enviar una comunicación a través de un cable, en la capa física. También vimos cómo las computadoras individuales pueden comunicarse y enviarse datos entre sí por medio de Ethernet en la capa de enlace de datos. Analizamos cómo las computadoras y los routers usan la capa de red para comunicarse entre diferentes redes mediante IP. Y en nuestra última lección, vimos cómo la capa de transporte garantiza que las aplicaciones correspondientes reciban y envíen datos. Estás lleno de capas de nueva información.

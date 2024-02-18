@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/rNHAoNv4a4g)
+
 Recuerda: DNS es una de las tecnologías más importantes que un especialista en soporte de TI debe conocer para solucionar problemas de red. Por lo tanto, vamos a lo esencial del asunto.
 
 En la práctica, DNS trabaja con un conjunto de tipos de registro de recursos definidos. Esto permite que se realicen diferentes tipos de resoluciones de DNS. Hay docenas de diferentes tipos de registros de recursos definidos, pero muchos de ellos solo cumplen funciones muy especializadas. Veremos los más comunes aquí.

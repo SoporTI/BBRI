@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/J3QDFMAKbSY)
+
 Para que completes tu comprensión de los conceptos básicos de redes, vamos a hacer una disección de la trama de Ethernet. Comprender los conceptos básicos de redes es el primer paso para desarrollar una base sólida de conocimiento en este tema que necesitarás en el soporte de TI.
 
 Un paquete de datos es un término amplio que describe cualquier conjunto simple de datos binarios enviados a través de un enlace de red. El término paquete de datos no está vinculado con ninguna capa o tecnología específica. Tan solo representa un concepto. Un conjunto de datos enviados desde el punto A hasta el punto B.

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/rI5dOX2HSck)
+
 # Breve Lección de Historia
 
 Incluso en 1996, era obvio que Internet estaba creciendo a un ritmo que no podría mantenerse. Cuando el protocolo IP se definió por primera vez, definió una dirección IP como un solo número de 32 bits. Un solo número de 32 bits puede representar 4,294,967,295 números únicos, lo que definitivamente suena como mucho, pero a partir de 2017, la población estimada en el planeta es de 7,500 millones de habitantes. Esto significa que el estándar IPv4 ni siquiera tiene suficientes direcciones IP disponibles para cada persona en el planeta. También puede dar cuenta de centros de datos completos con miles y miles de computadoras necesarios para que las empresas de tecnología a gran escala funcionen.

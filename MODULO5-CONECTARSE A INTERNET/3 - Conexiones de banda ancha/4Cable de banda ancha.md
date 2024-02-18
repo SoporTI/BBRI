@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/0Or2V_WI9uc)
+
 La historia de las redes de teléfonos y de computadoras comienzan con todas las comunicaciones transmitiéndose por cables. Pero la tendencia reciente es moverse más y más hacia el tráfico inalámbrico. La historia de la televisión sigue el camino opuesto. Originalmente, todas las emisiones de televisión eran transmisiones inalámbricas enviadas por torres de televisión gigantes y recibidas por antenas más pequeñas en los hogares. Esto implicaba que tenías que estar dentro del alcance de una de estas torres para ver televisión, así como ahora tienes que estar dentro del alcance de una torre de telefonía celular para usar tu teléfono celular.
 
 A partir de finales de los años 40 en los Estados Unidos, se desarrollaron las primeras tecnologías de televisión por cable. En ese momento, principalmente querían proporcionar acceso a la televisión a pueblos remotos y casas rurales que estaban fuera del alcance de capacidad de las torres de televisión de la época.

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/N_RaVlIGuEI)
+
 # NAT en la Capa de Transporte
 
 NAT en la capa de red es bastante fácil de entender. Un dispositivo, generalmente un router, traduce una dirección IP en otra. Pero en la capa de transporte, las cosas se complican un poco más y varias técnicas adicionales entran en juego para asegurarse de que todo funcione correctamente.

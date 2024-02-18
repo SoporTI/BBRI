@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/b8AqvZup-2k)
+
 Como protocolo, TCP establece conexiones usadas para enviar cadenas largas de segmentos de datos. Usted puede comparar esto con los protocolos que se encuentran mas abajo en el modelo de redes. En ellos se incluyen IP y Ethernet, los cuales envían paquetes individuales de datos. En calidad de Especialista de Soporte TI, usted necesita entender exactamente como funciona, de forma que pueda resolver inconvenientes, donde el trafico de red podría no estar comportándose de la forma esperada.
 
 La forma en que TCP establece una conexión, es a través del uso de diferentes campos de control TCP, usados en un orden muy especifico. Antes de cubrir como las conexiones son establecidas y cerradas, definamos los seis campos de control TCP. Los revisaremos en el orden en que aparecen en el encabezado TCP. Manos a la Obra. No es necesariamente en el mismo orden en el que se encuentran, o en lo importante que son.

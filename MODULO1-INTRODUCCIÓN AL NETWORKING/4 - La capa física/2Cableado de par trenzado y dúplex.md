@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/RPS_TkXBZYA)
+
 El tipo de cableado más común que se usa para conectar dispositivos informáticos se conoce como par trenzado. Se llama cable de par trenzado porque tiene pares de alambres de cobre trenzados entre sí. Estos pares actúan como un solo conducto para la información y su naturaleza trenzada protege contra la interferencia electromagnética y la diafonía de pares vecinos.
 
 Un cable estándar de categoría 6 tiene ocho alambres dispuestos en cuatro pares trenzados dentro de un recubrimiento simple. Exactamente cuántos pares haya realmente en uso depende de la tecnología de transmisión utilizada. Pero en todas las redes modernas, es importante saber que estos cables permiten la comunicación dúplex (bilateral). Como concepto, la comunicación dúplex implica que la información puede fluir en ambas direcciones a través del cable.

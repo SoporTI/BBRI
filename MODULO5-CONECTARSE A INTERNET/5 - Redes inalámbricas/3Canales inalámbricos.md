@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/OdggGFYRTN4)
+
 # Concepto de Canales en Redes Inalámbricas
 
 El concepto de canales es una de las cosas más importantes a entender sobre redes inalámbricas. Los canales son secciones individuales y más pequeñas de la banda de frecuencia general usada por una red inalámbrica.

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/xY90uBdsdes)
+
 Un nombre de dominio dado tiene tres partes principales y todas cumplen funciones específicas. Tomemos el nombre de dominio www.google.com. Deberíamos poder detectar fácilmente las tres partes aquí ya que están separadas entre sí por un punto. Son "www", "google" y "com".
 
 A la última parte de un nombre de dominio se la conoce como TLD o dominio de nivel superior. En este caso es la parte ".com" del nombre de dominio. Sólo hay un cierto número restringido de TLD definidos disponibles, aunque ese número creció mucho en los últimos años. Los TLD más comunes son aquellos con los que probablemente ya estás familiarizado: .com, .net, .edu y así sucesivamente. Probablemente también has visto algunos TLD específicos de países, como .de para Alemania o .cn para China. Debido al crecimiento de Internet, muchos de los TLD que se definieron originalmente se volvieron muy concurridos. Así que hoy, hay una serie de TLD personalizados disponibles, desde ".museum" hasta ".pizza".

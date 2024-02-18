@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/rO1tlxmLGtU)
+
 Cuando surgen problemas de red, el inconveniente más común que encontrarás es la imposibilidad de establecer una conexión con algo. Puede ser un servidor al que no se puede acceder o un sitio web que no carga. Tal vez solo puedas alcanzar tu recurso en tu LAN y no puedas conectarte a nada en Internet. Sea cual fuere el problema, ser capaz de diagnosticar inconvenientes de conectividad es una parte importante de la solución de problemas de red. Al final de esta lección, podrás usar una serie de importantes herramientas de solución de problemas que te ayudarán a resolverlos.
 
 Cuando se produce un error de red, el dispositivo que lo detecta necesita alguna forma de comunicarlo al origen del tráfico en problemas. Podría ser que un router no sepa cómo enrutar a un destino o que un determinado puerto no esté disponible. Incluso podría ser que el TTL de un datagrama IP haya expirado y no se intenten más saltos de router. En todas estas situaciones y más, se usa el Protocolo de mensajes de control de Internet, o ICMP, para comunicar estos problemas.

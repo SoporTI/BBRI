@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/l0PFIscDi5I)
+
 La gestión de hosts en una red puede ser una tarea desalentadora y lenta. Cada computadora en una red moderna basada en TCP/IP necesita tener al menos cuatro cosas configuradas específicamente: una dirección IP, la máscara de subred para la red local, una puerta de enlace principal y un servidor de nombres. Por sí solas, estas cuatro cosas no parecen ser mucho, pero cuando las tienes que configurar en cientos de máquinas, se vuelve super tedioso.
 
 De estas cuatro cosas, tres son probablemente lo mismo en casi todos los nodos en la red: la máscara de subred, la puerta de enlace principal y el servidor DNS. Pero el último elemento, una dirección IP, debe ser diferente en cada nodo único en la red. Eso podría requerir gran cantidad de trabajo de configuración complicado; es aquí donde DHCP, o Protocolo de configuración dinámica de hosts, entra en juego.

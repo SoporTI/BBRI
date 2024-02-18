@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/CwYHozSHNTw)
+
 ¿Conoces cuál es el dispositivo de red del que todavía no hemos hablado y con el que probablemente estés muy familiarizado? El **firewall**. Un firewall es un dispositivo que bloquea el tráfico que cumple ciertos criterios. Los firewalls son un concepto fundamental para mantener la seguridad en una red ya que son la principal forma en la que puedes detener el tráfico que no quieres que ingrese a una red.
 
 Los firewalls pueden funcionar en muchas capas diferentes de la red. Hay firewalls que pueden inspeccionar el tráfico de la capa de aplicación, y firewalls cuya tarea principal es bloquear rangos de direcciones IP. La razón por la que veremos los firewalls aquí es que se los usa comúnmente en la capa de transporte.

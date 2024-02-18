@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/NEJdDujI6pg)
+
 Mi nombre es Sergio La Torre y soy ingeniero de redes en Google. Oficialmente, trabajo en el producto YouTube TV. Mi equipo se llama Equipo de operaciones de TV en línea. Y, básicamente, nos aseguramos de que la TV en vivo esté siempre a disposición de los clientes.
 
 En pocas palabras, un ingeniero de redes es alguien que diseñará los caminos para Internet. Como ingeniero de redes, nunca tienes un día típico. Podría ser cualquier cosa, problemas que requieren solución, reuniones, trabajar en proyectos o problemas exigentes.

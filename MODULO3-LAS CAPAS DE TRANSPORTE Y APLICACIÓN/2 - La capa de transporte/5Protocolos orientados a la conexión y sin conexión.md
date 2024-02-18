@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/Ombo0tQXi1o)
+
 Hasta aquí, nos centramos principalmente en TCP, que es un protocolo orientado a la conexión. Un protocolo orientado a la conexión es uno que establece una conexión y se asegura de que todos los datos se hayan transmitido correctamente. Una conexión en la capa de transporte implica el reconocimiento de cada segmento de datos enviado. Así, ambos extremos de la conexión siempre saben qué bits de datos se entregaron sin duda alguna al otro lado, y qué bits no.
 
 Los protocolos orientados a la conexión son importantes porque Internet es un lugar vasto y con mucho tráfico y muchas cosas podrían salir mal al intentar enviar datos del punto A al punto B. Quizás recuerdes de nuestra lección sobre la capa física que incluso la mínima diafonía proveniente de un par trenzado vecino en el mismo cable puede ser suficiente para que una verificación por redundancia cíclica falle. Esto podría hacer que se descarte toda la trama. Uf... Con que un solo bit no se transmita correctamente, los datos resultantes a menudo resultan incomprensibles para el lado receptor. Y recuerda que, en el nivel más bajo, un bit es solo una señal eléctrica dentro de un cierto rango de voltaje.

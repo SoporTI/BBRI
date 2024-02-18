@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/1XK4JjDa8rQ)
+
 Mi nombre es Sergio La Torre, y soy ingeniero de redes en Google. Cuando era pequeño, me gustaban las herramientas analógicas como los destornilladores y los taladros, y también me gustaba desarmar las cosas. Y luego, a medida que crecí durante mi adolescencia, me di cuenta de que podía desarmar computadoras, y eso realmente fue muy interesante porque cuando las abres ves ventiladores, luces, circuitos. Y simplemente no lo comprendía, no tenía sentido para mí, sin embargo, si supiera cómo armarlo de la manera correcta podría interactuar con ella, divertirme y jugar mis videojuegos favoritos. Y así es como realmente comenzó todo.
 
 Y cuando me acuerdo, ya un poco mayor, después de la escuela secundaria, me di cuenta de que podía tomar esto como una pasión y que en realidad me gustaba aprender cómo funcionaba esta tecnología. Creo que mi parte favorita es resolver problemas, realmente disfruto cuando vemos un Diego de un dispositivo a otro, como se comunican las cosas, y como los clientes lo disfrutan. He aprendido sobre muchas herramientas y habilidades diferentes, ¡que ahora me siento como una navaja suiza cuando estoy trabajando! Y existen tantas experiencias diferentes en las que puedo apoyarme para resolver los problemas que enfrento en la actualidad.

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/4pE9Or8WlLA)
+
 Otra forma popular de usar tecnologías en la nube es **el almacenamiento en la nube**. En un sistema de almacenamiento en la nube, un cliente contrata a un proveedor de almacenamiento en la nube para mantener sus datos seguros, accesibles y disponibles. Estos datos pueden ser desde documentos individuales hasta copias de seguridad de grandes bases de datos.
 
 El almacenamiento en la nube ofrece más beneficios que un mecanismo de almacenamiento tradicional. Sin el almacenamiento en la nube, existe el gran dolor de cabeza de administrar una matriz de almacenamiento. Los discos duros son uno de los componentes que, con más frecuencia, pueden experimentar mal funcionamiento en un sistema informático. Eso significa que tendrías que controlar cuidadosamente los dispositivos que se utilizan para el almacenamiento y reemplazar las piezas cuando sea necesario.

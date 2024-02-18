@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/7HB2valSAa4)
+
 No se puede negar, las redes de computadoras son un asunto complicado que involucra muchas tecnologías, capas y protocolos. Al fin y al cabo, el propósito principal de las redes de computadoras es que los servicios de red puedan estar disponibles para responder a las solicitudes de datos de los clientes.
 
 El vasto número y la variedad de cosas que podría comprender un servicio de red hace que sea imposible que los abarquemos todos. Pero hay muchas tecnologías y servicios de red que se usan para que las redes de computadoras sean más fáciles de usar y seguras. Estos servicios y tecnologías de red son los que se relacionan directamente con el asunto de las redes en sí, y es importante comprender cómo funcionan.

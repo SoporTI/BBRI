@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/B9fdTf19itE)
+
 DNS es un gran ejemplo de un servicio de capa de aplicación que usa UDP para la capa de transporte en lugar de TCP. Esto se puede desglosar en algunas razones simples. Recuerda que la mayor diferencia entre TCP y UDP es que UDP no tiene conexión. Esto significa que no hay configuración ni cierre de una conexión. En general, se necesita transmitir mucho menos tráfico. Una sola solicitud de DNS y su respuesta pueden caber dentro de un solo datagrama UDP, por lo que es un candidato ideal para un protocolo sin conexión.
 
 También vale la pena señalar que DNS puede generar mucho tráfico. Es cierto que las copias en caché de las entradas DNS se guardan en máquinas locales y en servidores de nombres de caché, pero también es cierto que si se necesita procesar una resolución completa, estamos hablando de mucho más tráfico.

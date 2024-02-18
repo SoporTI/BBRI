@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/myK-B56HBmQ)
+
 Supongamos que estás a cargo de la red como único especialista en soporte de TI en una pequeña empresa. Al principio, el negocio solo tiene pocos empleados con pocas computadoras en una sola oficina. Decides usar un espacio de direcciones no enrutables para las direcciones IP internas porque las direcciones IP son escasas y caras. Estableces un router y lo configuras para que realice NAT. Configuras un servidor DNS local y un servidor DHCP para facilitar la configuración de la red. Y, por supuesto, para que todo esto realmente funcione, firmas un contrato con un ISP para que le proporcione un enlace a Internet a esta oficina para que tus usuarios puedan acceder a la Web.
 
 Ahora imagina que la empresa crece. Estás usando un espacio de direcciones no enrutables para tus direcciones IP internas, así que tienes mucho espacio para crecer allí. Tal vez algunos vendedores, mientras están viajando, necesiten conectarse a recursos en la LAN que configuraste. Entonces configuras un servidor VPN y te aseguras de que se pueda acceder al servidor VPN a través de la redirección de puertos. Ahora, puedes hacer que empleados de todo el mundo se conecten a la LAN de la oficina.

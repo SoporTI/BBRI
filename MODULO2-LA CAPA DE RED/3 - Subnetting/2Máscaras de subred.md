@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/D4LCJr5RP14)
+
 Hasta ahora, aprendimos acerca de las ID de red, que se utilizan para identificar redes, y las ID de host, que se utilizan para identificar hosts individuales. Si queremos dividir un poco más las cosas, y así es, tendremos que introducir un tercer concepto, la ID de subred. Tal vez recuerdes que una dirección IP es solo un número de 32 bits. En un mundo sin subredes, cierto número de estos bits se utilizan para la ID de red y un cierto número de bits se utilizan para la ID de host. En un mundo con subredes, algunos bits que normalmente comprenderían la ID de host se utilizan realmente para la ID de subred. Con estas tres ID que se pueden representar con una sola dirección IP, ahora tenemos un solo número de 32 bits que puede distribuirse con precisión a través de muchas redes diferentes.
 
 A nivel de Internet, los routers centrales solo toman en cuenta la ID de red y lo utilizan para enviar el datagrama al router de la puerta de enlace correspondiente a esa red. Ese router de puerta de enlace tiene información adicional que puede utilizarse para enviar dicho datagrama al equipo de destino o al siguiente router para llegar a su destino. Finalmente, el último router usa la ID de host para entregar el datagrama al equipo destinatario deseado.

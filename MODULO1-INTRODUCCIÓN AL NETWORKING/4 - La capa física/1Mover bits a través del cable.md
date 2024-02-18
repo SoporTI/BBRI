@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/r98rZccpDT4)
+
 En cierta forma, la capa física de nuestra modelo de pila de red es la más compleja de todas. Su foco principal es mover unos y ceros de un extremo del enlace al siguiente. Pero, matemáticas muy complicadas, física y principios de ingeniería eléctrica se involucran para transmitir enormes volúmenes de datos a través de pequeños cables a velocidades increíbles.
 
 Por suerte para nosotros, la mayor parte de eso pertenece a un reino diferente. Lo que tú, un aspirante a especialista en soporte de TI, necesitas saber sobre la capa física es mucho más accesible. Al final de esta lección, deberás tener una base sólida sobre los aspectos de la capa física que te permitirán solucionar adecuadamente problemas de red y configurar nuevas redes. Vamos a estudiarlo en profundidad.

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/2RY1HfbDyt0)
+
 Las computadoras pueden comunicarse a través de grandes distancias a velocidades casi instantáneas. Es un avance técnico notable y, gracias a él, miles de millones de personas utilizan Internet todos los días.
 
 Anteriormente en este curso, aprendimos acerca de cómo las computadoras se comunican entre sí en distancias cortas o en un solo segmento de red o LAN. En las siguientes lecciones, nos centraremos en las tecnologías que permiten que los datos crucen muchas redes que facilitan las comunicaciones a gran distancia.

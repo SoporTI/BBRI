@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/WG__UBlJWGc)
+
 # Redes Celulares: Conectividad Inalámbrica en Movimiento
 
 Otra forma muy popular de red inalámbrica es la **red celular**, también llamada red móvil. Las redes celulares ahora son comunes en todo el mundo y, en algunos lugares, el acceso a Internet a través de una red celular es la forma más común de conectarse.

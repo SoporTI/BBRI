@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/462mQPm8t-s)
+
 Como el uso de computadoras creció en el transcurso del Siglo XX, se hizo evidente una gran necesidad de conectar computadoras entre sí para que puedan compartir datos. Años antes de que se inventaran Ethernet, TCP o IP, había redes informáticas conformadas por tecnologías mucho más rudimentarias que el modelo que estuvimos analizando. Estas tecnologías de redes primitivas en su mayoría se enfocaban en conectar dispositivos físicamente cercanos entre sí.
 
 A finales de la década de 1970, dos estudiantes de posgrado de la Universidad de Duke estaban tratando de encontrar una mejor manera de conectar computadoras a mayores distancias. Querían compartir lo que era, básicamente, material del tablón de anuncios. En ese momento, se les ocurrió una gran idea. Se dieron cuenta de que la infraestructura básica para esto ya existía: la red de telefonía pública. La red de telefonía pública conmutada, o PSTN, a la que, a veces, también se la conoce como servicio telefónico tradicional, o POTS, ya era un sistema bastante global y poderoso a finales de los 70, más de 100 años después de la invención del teléfono.

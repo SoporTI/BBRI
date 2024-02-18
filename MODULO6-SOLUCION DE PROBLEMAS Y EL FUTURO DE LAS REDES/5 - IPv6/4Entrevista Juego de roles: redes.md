@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/SrmKX3xSzHM)
+
 Hola, soy Rob. Soy Candice. Felicidades por llegar al final de este curso. Ahora, que llegaste hasta aquí, vamos a darte un anticipo de lo que podría ser una entrevista sobre los temas técnicos que se abarcaron en este curso. Esperamos que esto te ayude a tener una mejor idea de lo que puedes esperar en tu próxima entrevista. Solo recuerda seguir aprendiendo y practicando.
 
 Muy bien. Para esta situación, supongamos que estás trabajando en la mesa de ayuda para una empresa global, y recibes una llamada de un usuario en una oficina remota a primera hora de la mañana. Suena aterrado y te dice que la red se cayó en su oficina, ¿qué haces?

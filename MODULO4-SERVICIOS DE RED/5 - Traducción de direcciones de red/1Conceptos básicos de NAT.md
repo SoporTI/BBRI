@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/cfVJYs9jXE4)
+
 # Traducción de Direcciones de Red (NAT)
 
 Hola de nuevo. ¿Todo listo para meternos de lleno en esto? A diferencia de los protocolos como DNS y DHCP, la traducción de direcciones de red, o NAT, es más una técnica que un estándar definido. Esto significa que algo de lo que analizaremos en esta lección puede tener un nivel superior que algunos de nuestros otros temas. Diferentes sistemas operativos y diferentes proveedores de hardware de red han implementado los detalles de NAT de diferentes maneras. Pero los conceptos de lo que logra son bastante constantes.

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/DhBKB8ZabvQ)
+
 Las tres primeras capas de nuestro modelo de red nos han ayudado a describir cómo los nodos individuales en una red se pueden comunicar con otros nodos en su propia red o en una red remota. Pero no analizamos cómo los programas informáticos individuales pueden comunicarse entre sí. Es hora de ver esto en profundidad, porque ese es el verdadero objetivo de las redes informáticas.
 
 Conectamos computadoras en red no solo para que puedan enviarse datos entre ellas, sino porque queremos que los programas que se ejecutan en esas computadoras puedan enviarse datos entre sí. Aquí es donde las capas de transporte y aplicación de nuestro modelo de red entran en juego.

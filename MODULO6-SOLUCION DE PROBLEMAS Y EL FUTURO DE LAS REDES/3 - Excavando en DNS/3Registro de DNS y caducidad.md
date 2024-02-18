@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/GuPZbt_9CyE)
+
 Es hora de un repaso. Recuerda que DNS es un sistema global administrado en una jerarquía escalonada que tiene a ICANN en el nivel superior. Los nombres de dominio deben ser globalmente únicos para que un sistema global como este funcione. No se puede permitir que nadie decida usar cualquier nombre de dominio. Sería un caos.
 
 Aquí ingresa la idea de un registrador, una organización responsable de asignar nombres de dominio individuales a otras organizaciones o individuos. Originalmente, había solo unos pocos registradores. El más famoso era una compañía llamada Network Solutions Inc. Fue responsable de registrar casi todos los dominios que no eran específicos de un país.

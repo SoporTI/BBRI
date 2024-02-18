@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/K86nKnjvMaM)
+
 Internet es un logro tecnológico increíble, impresionante. Une millones de redes individuales y permite que las comunicaciones fluyan entre ellas. Desde casi cualquier lugar del mundo, ahora puedes acceder a datos ubicados en otro lugar. A menudo, en tan solo fracciones de segundo.
 
 La forma en que ocurren las comunicaciones a través de todas estas redes, lo que te permite acceder a los datos del otro lado del planeta, es a través del enrutamiento. Al final de esta lección, podrás describir los conceptos básicos del enrutamiento y cómo funcionan las tablas de enrutamiento. Podrás identificar algunos de los principales protocolos de enrutamiento y lo que hacen, además de identificar un espacio de direcciones no enrutable y su uso. También comprenderás el sistema RFC y cómo hizo de Internet lo que es hoy.

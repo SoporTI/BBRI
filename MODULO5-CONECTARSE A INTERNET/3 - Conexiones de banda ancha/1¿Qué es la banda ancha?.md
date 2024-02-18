@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/onnSOeH2uXA)
+
 El término "banda ancha" tiene unas cuantas definiciones. En cuanto a conectividad a Internet, se usa para referirse a cualquier tecnología de conectividad que no sea de acceso telefónico. Internet de banda ancha es casi siempre mucho más veloz que, incluso, las conexiones por acceso telefónico más rápidas, y señala que las conexiones siempre están activas. Esto significa que son conexiones duraderas que no necesitan establecerse con cada uso. En esencia, son enlaces que siempre están presentes.
 
 La banda ancha le dio forma al mundo de hoy. Si bien Internet es un invento totalmente sorprendente, no fue hasta la llegada de las tecnologías de banda ancha que hizo realidad su verdadero potencial para empresas y usuarios domésticos. Mucho antes de que la gente tuviera conexiones de banda ancha en casa, las empresas dedicaban una gran cantidad de recursos a ellas, en general por necesidad. Si tenías una oficina con algo más que unos pocos empleados, el ancho de banda disponible para una sola conexión por acceso telefónico se saturaría rápidamente con unos pocos usuarios.

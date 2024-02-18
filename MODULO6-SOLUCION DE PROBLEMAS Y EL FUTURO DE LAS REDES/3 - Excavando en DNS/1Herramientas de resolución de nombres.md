@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/slRyHfAV2WE)
+
 La resolución de nombres es una parte importante del funcionamiento de Internet. La mayor parte del tiempo, tu sistema operativo se encarga de todas las búsquedas por ti. Pero como especialista en soporte de TI, a veces puede ser útil ejecutar estas consultas para que puedas ver exactamente lo que ocurre detrás de escena.
 
 Por suerte, hay muchas herramientas diferentes de línea de comandos por ahí que te ayudarán con esto. La herramienta más común se conoce como nslookup y está disponible en los tres sistemas operativos que estuvimos analizando, Linux, Mac y Windows.

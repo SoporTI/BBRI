@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/sJyb5hh5aOU)
+
 ¡Felicitaciones! Ahora entiendes cómo se utilizan ambas direcciones MAC en el Linklayer de datos y cómo se utilizan las direcciones IP en la capa de red. Ahora necesitamos aclarar cómo estos dos tipos de direcciones separadas se relacionan entre sí. Aquí es donde entra en juego el protocolo de resolución de direcciones o ARP.
 
 ARP es un protocolo utilizado para descubrir la dirección de hardware de un nodo con una dirección IP determinada. Una vez que un datagrama IP se ha formado completamente necesita ser encapsulado dentro de una trama Ethernet. Esto significa que el dispositivo transmisor necesita una dirección MAC de destino para completar el encabezado de la trama Ethernet.

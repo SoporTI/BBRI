@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/ubEDR2k91PQ)
+
 Hemos visto cómo los servidores de nombres autoritativos son responsables de responder a las solicitudes de resolución de nombres para dominios específicos, pero hacen más que eso. Un servidor de nombres autoritativo es en verdad responsable de una zona DNS específica.
 
 Las zonas DNS son un concepto jerárquico. Los servidores de nombres raíz que vimos anteriormente son responsables de la zona raíz. Cada servidor de nombres TLD es responsable de la zona que cubre su TLD específico, y lo que llamamos servidores de nombres autoritativos son responsables de algunas zonas subyacentes aún más detalladas. Los servidores de nombres raíz y TLD también son en realidad servidores de nombres autoritativos. Es solo que las zonas para las que están acreditados son casos especiales.

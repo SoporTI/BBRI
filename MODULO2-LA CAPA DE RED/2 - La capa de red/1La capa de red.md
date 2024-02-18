@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/3k2U3tnhYX0)
+
 En una red de área local, o LAN, los nodos pueden comunicarse entre sí
 a través de sus direcciones MAC físicas. Esto funciona bien a pequeña escala
 porque los conmutadores pueden aprender rápidamente las direcciones MAC conectadas a los puertos de los nodos

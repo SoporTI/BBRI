@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/bZ7nooKKT6U)
+
 Una alternativa popular a las tecnologías WAN son las VPN de punto a punto. Las tecnologías WAN son excelentes para cuando necesitas transportar grandes cantidades de datos a muchos sitios, porque están diseñadas para ser rapidísimas. Un cable comercial o línea DSL podría ser mucho más económico pero no puede manejar la carga requerida en algunas de estas situaciones.
 
 Pero en los últimos años, las empresas han estado trasladando cada vez más sus servicios internos a la nube. Veremos exactamente lo que esto significa más adelante, pero por ahora, basta con saber que la nube permite a las empresas subcontratar la totalidad o parte de sus diferentes piezas de infraestructura para que otras empresas las gestionen.

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/vyeP7TtmYck)
+
 Las computadoras se comunican entre sí usando números. En los niveles más bajos, todo lo que las computadoras realmente entienden son 1 y 0. Leer números binarios no es lo más fácil para los humanos, por eso, la mayoría de los números binarios se representan de muchas formas diferentes. Esto es especialmente cierto en el campo de las redes. Recuerda que una dirección IP es, en realidad, un número binario de 32 bits, pero que normalmente se escribe como 4 octetos en forma decimal ya que así es más fácil de leer para los humanos. También puedes recordar que las direcciones MAC son solo números binarios de 48 bits que normalmente se escriben en 6 grupos de 2 dígitos hexadecimales cada uno.
 
 Si bien recordar 192.168.1.100 podría ser más fácil que recordar una larga cadena de unos y ceros, tampoco facilita las cosas cuando tienes que recordar algo más que unas pocas direcciones. Imagina tener que recordar los cuatro octetos de una dirección IP para cada sitio web que visites. No es un talento natural del cerebro humano. Los humanos somos mucho mejores recordando palabras. Ahí es donde DNS, o sistema de nombres de dominio, entra en juego. DNS es un servicio de red global y altamente distribuido que resuelve strings de letras en una dirección IP para ti.

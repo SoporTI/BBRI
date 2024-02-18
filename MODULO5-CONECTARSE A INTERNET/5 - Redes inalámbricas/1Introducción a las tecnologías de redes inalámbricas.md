@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/cnxnOe9yN50)
+
 En el mundo actual, cada vez menos dispositivos dependen de los cables físicos para poder conectarse a redes informáticas. Con tantos dispositivos portátiles de computación en uso, desde laptops a tablets y smartphones, también presenciamos el auge de las redes inalámbricas.
 
 Las redes inalámbricas son exactamente lo que parecen: una forma de conexión sin cables. Al final de esta lección, podrás describir los conceptos básicos de cómo funciona la comunicación inalámbrica. Sabrás distinguir la diferencia entre redes de infraestructura y redes ad hoc. Podrás explicar cómo los canales inalámbricos ayudan a que funcionen las redes inalámbricas. Y comprenderás los conceptos básicos de los protocolos de seguridad inalámbrica. Estas son habilidades invaluables como especialista en soporte de TI, ya que las redes inalámbricas son cada vez más comunes en el lugar de trabajo.

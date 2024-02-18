@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/88qr22hYRsM)
+
 Cuando estás trabajando en TI, trabajas con un montón de sistemas diferentes. Podrían ser servidores, bases de datos, una diversidad de sistemas operativos. Y luego, como ingeniero de redes, debes saber cómo funcionan todas esas cosas juntas.
 
 Pienso en mi caso: cuando era niño, tenía un desorden cognitivo, así que nunca sentí que lo académico fuera una de mis fortalezas. Sentía que todos querían dedicarse a las computadoras o a programación o redes y ser genios, entender matemáticas y ciencias, obtener las mejores notas.

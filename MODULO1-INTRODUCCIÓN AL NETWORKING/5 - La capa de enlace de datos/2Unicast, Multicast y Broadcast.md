@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/tOdUljp70sE)
+
 Hasta aquí, hablamos de las formas que existen para que un dispositivo transmita datos a otro dispositivo. Esto es lo que se conoce como unidifusión. Una transmisión de unidifusión siempre tiene como objetivo solo una dirección receptora. A nivel de Ethernet, esto se hace mirando a un bit especial en la dirección MAC de destino. Si el bit menos significativo en el primer octeto de una dirección de destino tiene un valor igual a cero, eso significa que la trama de Ethernet está dirigida solo a la dirección de destino. Esto implica que se la enviará a todos los dispositivos en el dominio de colisión, pero solo será recibida y procesada por el destino previsto.
 
 Si el bit menos significativo en el primer octeto de una dirección de destino tiene un valor igual a uno, eso quiere decir que estás tratando con una trama de multidifusión. Una trama de multidifusión está configurada de manera similar para todos los dispositivos en la señal de la red local. La diferencia es que será aceptada o descartada por cada dispositivo dependiendo de ciertos criterios, al margen de su propia dirección MAC de hardware. Las interfaces de red se pueden configurar para que acepten listas de direcciones de multidifusión configuradas para este tipo de comunicación.

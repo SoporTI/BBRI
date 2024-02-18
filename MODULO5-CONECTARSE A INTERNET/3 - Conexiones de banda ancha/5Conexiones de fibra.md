@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/XvUYxYKPJsA)
+
 Durante mucho tiempo, en el núcleo de Internet se ha usado fibra para las conexiones debido a sus velocidades más altas y a que la fibra permite que la transmisión viaje mucho más lejos sin degradación de la señal. Recuerda que las conexiones de fibra usan luz en lugar de corrientes eléctricas para transmitir datos.
 
 La distancia máxima absoluta que una señal eléctrica puede recorrer por un cable de cobre antes de degradarse demasiado y requerir un repetidor es de miles de metros. Pero, ciertas implementaciones de conexiones de fibra pueden prolongarse muchos, muchos kilómetros antes de que una señal se degrade.

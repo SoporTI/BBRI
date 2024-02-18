@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/PcSNEsn7LGs)
+
 Las direcciones IP se pueden dividir en dos secciones, la ID de red y la ID de host. Anteriormente, mencionamos que IBM posee todas las direcciones IP que tienen un nueve como el valor del primer octeto en una dirección IP. Si tomamos una dirección IP de ejemplo como 9.100.100.100, la ID de red sería el primer octeto, y la ID de host serían el segundo, tercer y cuarto octetos.
 
 El sistema de clase de dirección es una forma de definir cómo se divide el espacio global de direcciones IP. Hay tres tipos principales de clases de dirección. Clase A, clase B, y clase C. Las direcciones de clase A son aquellas en los que se utiliza el primer octeto para la ID de red, y los tres últimos se utilizan para la ID de host. Las direcciones de clase B son donde se utilizan los dos primeros octetos para la ID de red, y los dos segundos se utilizan para la ID de host. Las direcciones de clase C, como habrás adivinado, son aquellas donde se utilizan los primeros tres octetos para la ID de red y solo se utiliza el octeto final para la ID de host.

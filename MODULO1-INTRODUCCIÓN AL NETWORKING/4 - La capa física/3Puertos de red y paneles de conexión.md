@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/Wfx9J5a1KDw)
+
 Los pasos finales del funcionamiento de la capa física ocurren en los extremos de nuestros enlaces de red. Los cables de red de par trenzado terminan en un conector que toma los cables internos individuales y los expone. El conector más común se conoce como RJ45, o Registered Jack 45. Es una de las muchas especificaciones de enchufes para cables, pero, por lejos, la más común en las redes informáticas.
 
 Un cable de red con un conector RJ45 puede conectarse a un puerto de red RJ45. Los puertos de red, por lo general, están incorporados directamente en los dispositivos que forman una red informática. Los conmutadores tendrán muchos puertos de red porque su fin es conectar muchos dispositivos. Pero los servidores y los equipos de escritorio por lo general solo tienen uno o dos. Tu laptop, tu tablet o tu teléfono probablemente no tengan ninguno. Ya llegaremos a las redes inalámbricas en un módulo posterior.

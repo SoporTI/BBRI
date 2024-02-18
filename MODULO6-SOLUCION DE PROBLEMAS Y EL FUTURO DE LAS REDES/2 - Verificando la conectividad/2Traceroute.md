@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/CLupiGxEdWM)
+
 Con ping, ahora tienes una manera de determinar si puedes llegar a una cierta computadora desde otra. También puedes comprender la calidad general de la conexión. Pero las comunicaciones a través de redes, en especial a través de Internet, por lo general cruzan muchísimos nodos intermediarios. A veces, necesitas una manera de determinar en qué parte de la larga cadena de saltos de router están en verdad los problemas. Traceroute al rescate.
 
 Traceroute es una utilidad impresionante que te permite descubrir las rutas entre dos nodos y te brinda información sobre cada salto en el camino. Traceroute funciona a través de una técnica de manipulación inteligente del campo TTL a nivel de IP. Anteriormente aprendimos que el valor del campo TTL se reduce de a una unidad por cada router que reenvía el paquete. Cuando el campo TTL llega a cero, el paquete se desecha y se envía un mensaje ICMP "Time Exceeded" (tiempo excedido) al servidor de origen.

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/QLIa_733iVo)
+
 Ya vimos los fundamentos de cómo funciona el enrutamiento, y cómo se construyen las tablas de enrutamiento. Ambos son conceptos muy básicos. La verdadera magia del enrutamiento está en la forma en que las tablas de enrutamiento siempre se actualizan con nueva información sobre el camino más rápido a las redes de destino.
 
 Los protocolos que estaremos aprendiendo en este video te ayudarán a identificar problemas de enrutamiento en cualquier red a la que debas brindar soporte. Para conocer el mundo que los rodea, los routers usan lo que se conoce como protocolos de enrutamiento. Son protocolos especiales que los routers usan para comunicarse entre sí con el objeto de compartir cualquier información que puedan tener. Así es como un router de un lado del planeta puede finalmente detectar el mejor camino hacia una red del otro lado del planeta.

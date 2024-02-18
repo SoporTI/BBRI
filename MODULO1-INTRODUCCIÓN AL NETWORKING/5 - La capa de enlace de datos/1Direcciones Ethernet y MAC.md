@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/--FPsh0D8ek)
+
 # El acceso inalámbrico y celular a Internet
 
 El acceso inalámbrico y celular a Internet se está convirtiendo rápidamente en una de las formas más comunes para conectar dispositivos informáticos a redes, y probablemente es cómo estés conectado ahora. Tal vez te sorprenda escuchar que las redes de cable tradicionales siguen siendo la opción más común que encontrarás en tu lugar de trabajo y, definitivamente, en el centro de datos.

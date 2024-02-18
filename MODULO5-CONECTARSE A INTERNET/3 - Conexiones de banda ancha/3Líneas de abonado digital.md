@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/XX_Pshtk0QI)
+
 La red telefónica pública fue una gran opción para que las personas se conectaran a Internet porque ya contaba con infraestructura en todas partes. Durante mucho tiempo, las conexiones por acceso telefónico fueron la principal forma en que las personas se conectaban a Internet desde su casa. Pero había ciertas limitaciones al tratar de transmitir datos como lo que eran básicamente, ondas de audio.
 
 Como la gente quería un acceso a Internet cada vez más rápido, las compañías telefónicas empezaron a preguntarse si podrían usar la misma infraestructura pero de una manera diferente. La investigación mostró que el par trenzado de cobre utilizado por las líneas telefónicas modernas era capaz de transmitir muchos más datos de los necesarios para las llamadas de voz a voz. Al operar en un rango de frecuencia que no interferiría con las llamadas telefónicas normales, una tecnología conocida como línea de abonado digital, o DSL, pudo enviar muchos más datos a través del cable que las tecnologías de acceso telefónico tradicionales.

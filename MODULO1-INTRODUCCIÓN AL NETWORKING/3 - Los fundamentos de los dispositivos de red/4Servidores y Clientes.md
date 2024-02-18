@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/Pf3_r7_D5qY)
+
 Todos los dispositivos de red que conociste existen para que las computadoras puedan comunicarse entre sí, ya sea que estén en la misma habitación o a miles de kilómetros de distancia. A estos dispositivos los venimos llamando "nodos" y lo seguiremos haciendo, pero también es importante entender los conceptos de servidores y clientes.
 
 La forma más sencilla de pensar en un servidor es como algo que proporciona datos a algo que los solicita. Lo que recibe los datos se conoce como "cliente". Si bien a menudo decimos que los nodos son servidores o clientes, la razón por la que nuestra definición usa una palabra tan vaga como "algo" es porque no solo los nodos pueden ser servidores o clientes. Los programas informáticos individuales que se ejecutan en el mismo nodo también pueden ser servidores y clientes entre sí.

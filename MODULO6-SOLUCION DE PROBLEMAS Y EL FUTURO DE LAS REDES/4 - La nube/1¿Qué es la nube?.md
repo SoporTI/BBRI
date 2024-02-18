@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/WeVyV9MEreI)
+
 Probablemente escuchaste a la gente hablar sobre **la nube** cada vez más. Hay nubes públicas y nubes privadas y nubes híbridas y nubes de lluvia, pero estas no son relevantes aquí. Hay clientes en la nube y almacenamiento en la nube y servidores en la nube también. Tal vez escuches que mencionan *la nube* en titulares de periódicos y anuncios de televisión. *La nube* es el futuro, nos dicen, y los especialistas de soporte de TI realmente necesitan mantenerse al ritmo de las últimas innovaciones en tecnología para respaldarlas. Pero ¿qué es exactamente **la nube**? La verdad es que *la nube* no es una sola tecnología o invención o cosa tangible en absoluto. Es solo un concepto, y para lanzar otro chiste sobre nubes, digamos que es un concepto muy nebuloso. El hecho de que el término "la nube" se aplique a algo tan difícil de definir es bastante apropiado.
 
 Básicamente, la **computación en la nube** es un enfoque tecnológico donde los recursos informáticos se aprovisionan de forma compartible, de modo que muchos usuarios obtengan lo que necesitan cuando lo necesiten. Es un enfoque que se apoya considerablemente en la idea de que las empresas ofrecen servicios entre sí utilizando estos recursos compartidos.

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/FWfhTXWxoGg)
+
 Durante nuestro video anterior sobre los conceptos básicos del enrutamiento, tal vez notaste un montón de referencias a algo conocido como una tabla de enrutamiento. El enrutamiento en sí es un concepto bastante simple y verás que las tablas de enrutamiento no son mucho más complicadas.
 
 Los primeros routers eran simplemente las computadoras comunes de ese momento. Tenían dos interfaces de red, un puente a las redes y una tabla de enrutamiento automático que se actualizaba manualmente. De hecho, todos los principales sistemas operativos actuales siguen teniendo una tabla de enrutamiento que consultan antes de transmitir datos. Todavía podrías construir tu propio router hoy si tuvieras una computadora con dos interfaces de red y actualizaras la tabla de enrutamiento a mano.

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/zq0OFXPLZBo)
+
 ¡Lo hiciste! Deberías estar realmente orgulloso de ti mismo porque llegar al final de todo este material es un gran logro. El material que vimos fue bastante técnico y muy complicado. Llegar al final es una verdadera hazaña. Tómate un momento para pensar en todo lo que aprendiste.
 
 Ahora sabes mucho sobre cómo las computadoras se comunican entre sí, lo que es una parte esencial de cómo las personas nos comunicamos entre nosotras. Miles de millones de personas usan las redes informáticas todos los días y forman la columna vertebral de la economía global.

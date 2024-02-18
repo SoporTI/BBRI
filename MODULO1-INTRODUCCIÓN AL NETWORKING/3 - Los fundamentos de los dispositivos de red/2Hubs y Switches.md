@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/lLWJ7_2xock)
+
 Vamos a hacer un resumen de los dispositivos de red en este video y en el siguiente. Casi todos los especialistas en TI tendrán que interactuar con estos tipos de dispositivos frecuentemente.
 
 Los cables te permiten formar conexiones de red punto a punto. Estas son redes donde solo hay un dispositivo en cada extremo del enlace. No es por criticar a las conexiones de red punto a punto, pero no son muy útiles en un mundo con miles de millones de computadoras.

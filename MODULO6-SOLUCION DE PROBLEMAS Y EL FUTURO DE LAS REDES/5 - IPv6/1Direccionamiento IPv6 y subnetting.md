@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/hFa-oOdiTrk)
+
 Es momento para una verdadera charla. Esta es la cruel verdad:
 
 IANA no tiene más direcciones IP. Cuando IPv4 se desarrolló por primera vez, se eligió un número de 32 bits para representar la dirección de un nodo en una red. Era la infancia de Internet y nadie realmente esperaba que su popularidad explotara como lo ha hecho. Se eligieron 32 bits, pero no es suficiente espacio para el número dispositivos con conexión a Internet que tenemos en el mundo.

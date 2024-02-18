@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/752YvezjYkI)
+
 De la misma forma que todos los paquetes de datos en la capa Ethernet tienen por nombre específico tramas de Ethernet, también lo tienen los paquetes en la capa de red. En virtud del protocolo IP, a un paquete se lo conoce, por lo general, como un datagrama IP. Al igual que cualquier trama de Ethernet, un datagrama IP es una serie de campos altamente estructurados que están estrictamente definidos. Las dos secciones principales de un datagrama IP son el encabezado y la carga útil.
 
 Podrás notar que un encabezado de datagrama IP contiene muchos más datos que un encabezado de trama de Ethernet. El primer campo es de 4 bits, e indica qué versión de protocolo de Internet se está utilizando. La versión más común de IP es la versión cuatro o IPv4. La versión seis o IPv6 está siendo adoptada rápidamente de forma generalizada, pero esto lo veremos en un módulo posterior.

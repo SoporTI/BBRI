@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/Wk1EVK_wa9k)
+
 Vimos un montón de maneras de probar la conectividad entre máquinas en la capa de red. Pero a veces, necesitas saber si las cosas funcionan en la capa de transporte. Para esto, hay dos herramientas poderosísimas a tu disposición: Netcat en Linux y Mac OS y Test-NetConnection en Windows.
 
 La herramienta Netcat se puede ejecutar a través del comando nc, y tiene dos argumentos obligatorios, un host y un puerto. Al ejecutar `nc google.com 80`, se intentaría establecer una conexión en el puerto 80 a google.com. Si la conexión falla, el comando finalizará. Si tiene éxito, verás un cursor que parpadea a la espera de más entradas. Esta es una forma de enviar datos de la capa de aplicación al servicio que escucha desde tu propio teclado.

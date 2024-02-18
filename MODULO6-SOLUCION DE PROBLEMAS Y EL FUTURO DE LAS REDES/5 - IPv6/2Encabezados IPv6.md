@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/h-EMs7DXENY)
+
 Cuando IPv6 estaba en desarrollo, se tomaron el tiempo para introducir algunas mejoras en lugar de descubrir la manera para aumentar el tamaño de la dirección. Esto debería ser un alivio para ti, y los especialistas en soporte de TI aman las redes que funcionan bien.
 
 Una de las mejoras más elegantes se hizo en el encabezado de IPv6, que es mucho más simple que el de IPv4. El primer campo en un encabezado IPv6 es el campo de la versión. Este es un campo de 4 bits que define qué versión de IP está en uso. Quizás recuerdes que un encabezado IPv4 comienza exactamente con este mismo campo.

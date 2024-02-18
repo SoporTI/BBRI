@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/9LlG6f96CCU)
+
 DHCP es un protocolo de capa de aplicación, lo que significa que se basa en las capas de transporte, red, enlace de datos y capas físicas para funcionar. Pero te habrás dado cuenta de que la finalidad de DHCP es ayudar a configurar la capa de red en sí. Veamos exactamente cómo funciona DHCP y cómo logra las comunicaciones sin una configuración de capa de red implementada. Advertencia, se avecinan cosas de cerebritos.
 
 El proceso por el cual un cliente configurado para usar DHCP intenta obtener información de la configuración de red se conoce como detección DHCP. El proceso de detección DHCP tiene cuatro pasos.

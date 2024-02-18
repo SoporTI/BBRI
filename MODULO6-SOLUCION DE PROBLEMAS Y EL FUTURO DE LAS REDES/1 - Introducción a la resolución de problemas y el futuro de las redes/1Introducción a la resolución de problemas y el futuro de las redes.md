@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/bPNX6M5qALI)
+
 # Solución de Problemas en Redes de Computadoras
 
 Hola de nuevo. Como viste, las redes de computadoras pueden ser un asunto increíblemente complicado. Hay tantas capas, protocolos y dispositivos en juego. A veces, esto significa que las cosas simplemente no funcionan correctamente. No hay sorpresa allí.

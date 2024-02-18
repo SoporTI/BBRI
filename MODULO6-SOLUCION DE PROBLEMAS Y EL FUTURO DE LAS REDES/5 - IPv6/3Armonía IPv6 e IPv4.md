@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/PK_hNWXZl_8)
+
 Simplemente no es posible que Internet en su totalidad y que todas las redes conectadas cambien a IPv6 a la vez. Habría demasiada coordinación en juego. Demasiados dispositivos antiguos que hasta podrían no saber comunicarse en IPv6 en absoluto seguirían requiriendo conexiones. Así que la única manera en que IPv6 quede establecida es desarrollar una forma en la que el tráfico de IPv6 y de IPv4 coexistan. Esto permitiría a las organizaciones individuales hacer la transición cuando puedan.
 
 Un ejemplo de cómo esto puede funcionar es lo que se conoce como espacio de direcciones mapeadas IPv4. Las especificaciones de IPv6 tienen una cantidad de direcciones reservadas que pueden correlacionarse directamente a una dirección IPv4. Cualquier dirección IPv6 que comience con 80 ceros y luego siga con 16 unos, se entiende como parte del espacio de direcciones mapeadas de IPv4. Los 32 bits restantes de la dirección IPv6 son los mismos 32 bits de la dirección IPv4 que debe representar. Esto nos da una vía para que el tráfico IPv4 se mueva a través de una red IPv6. Pero, probablemente, más importante es que el tráfico IPv6 tenga una manera de moverse a través de redes IPv4. Le es más fácil hacer el cambio a IPv6 a una organización individual que a las redes en el corazón de Internet.

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/-O-hMkzgGyw)
+
 # Entendiendo la Red: Modelo de Cinco Capas
 
 Para entender la red de verdad, necesitamos entender todos los componentes involucrados. Hablamos de todo, desde los cables que conectan dispositivos entre sí a los protocolos que estos dispositivos utilizan para comunicarse. Hay un montón de modelos que permiten explicar cómo se comunican los dispositivos de red, pero en este curso, nos centraremos en un modelo de cinco capas. Al final de esta lección, podrás identificar y describir cada capa y para qué sirve.

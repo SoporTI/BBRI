@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/VGJJpHWeobk)
+
 # Privacidad y Seguridad en Redes Inalámbricas
 
 Cuando estás enviando datos a través de un enlace por cable, tu comunicación tiene un cierto grado de privacidad inherente. Los únicos dispositivos que realmente saben qué datos se están transmitiendo son los dos nodos en cada extremo del enlace. Alguien o algún dispositivo que se encuentre cerca no puede leer los datos.

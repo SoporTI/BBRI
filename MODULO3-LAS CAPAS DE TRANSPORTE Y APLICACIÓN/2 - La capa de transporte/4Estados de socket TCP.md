@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/rvlAyaniDus)
+
 Un socket es la creación de instancias de un terminal en una conexión TCP potencial. Una creación de instancias es la implementación real de algo definido en otro lugar. Los sockets TCP requieren programas reales para poder crear sus instancias. Puedes comparar esto con un puerto que tiene una naturaleza más descriptiva y virtual. En otras palabras, puedes enviar tráfico al puerto que quieras, pero solo obtendrás una respuesta si un programa abrió un socket en ese puerto.
 
 Puede haber sockets TCP en muchos estados. Y poder entender lo que significan te ayudará a solucionar problemas de conectividad de red como especialista de soporte de TI. Veremos los más comunes aquí.

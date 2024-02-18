@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/W0qdv-27o8k)
+
 # Modelos de Capa de Red
 
 En nuestro módulo de apertura, dijimos que hay muchos modelos de capa de red distintos. Hemos estado trabajando a partir de un modelo de cinco capas, pero probablemente te encuentres con varios otros modelos a lo largo de tu carrera como especialista en soporte de TI.

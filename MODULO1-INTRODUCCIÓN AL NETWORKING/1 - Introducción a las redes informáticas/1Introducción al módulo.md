@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/qO3LDVBF0pY)
+
 # Curso 2: Los bits y bytes de las redes de computadoras
 
 ¡Bienvenidos al curso 2, Los bits y bytes de las redes de computadoras! Tal vez me recuerden de las lecciones en Internet en el primer curso, pero también podrían haberlas pasado por alto, en cuyo caso, nos encontramos por primera vez. Mi nombre es Víctor Escobedo y soy ingeniero de operaciones corporativas.

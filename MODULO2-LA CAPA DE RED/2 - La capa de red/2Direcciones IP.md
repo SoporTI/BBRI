@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/Wkup6GGdGN4)
+
 Las direcciones IP tienen números de 32 bits
 compuestos por 4 octetos y cada octeto se describe normalmente
 en números decimales. Ocho bits de datos, o un solo octeto, pueden representar todos los números decimales
@@ -8,6 +11,7 @@ notación decimal con puntos.
 Profundizaremos más sobre la manera cómo
 parte de esto funciona en una próxima lección sobre subredes. Lo importante que debes saber por ahora
 es que las direcciones IP se distribuyen en grandes secciones a diversas organizaciones y compañías, y no las determinan los proveedores de hardware.
+
 
 Esto significa que las direcciones IP
 son más jerárquicas y almacenan datos más fácilmente

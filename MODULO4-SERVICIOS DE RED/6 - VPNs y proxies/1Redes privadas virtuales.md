@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/oNLgDcgs6oQ)
+
 Las empresas tienen muchas razones para querer mantener la seguridad de su red. Y lo hacen aplicando algunas de las tecnologías que ya analizamos. Firewalls, NAT, el uso de espacio de direcciones no enrutables, cosas como esas. Las organizaciones a menudo tienen información patentada que necesita mantenerse segura. Servicios de red que solo están destinados al acceso de los empleados y otras cosas.
 
 Una de las maneras más fáciles de mantener las redes seguras es usar varias tecnologías de seguridad, para que solo los dispositivos conectados físicamente a tu red de área local puedan acceder a estos recursos. Pero los empleados no siempre están en la oficina. Podrían estar trabajando desde su casa o en un viaje de negocios y es posible que aun así necesiten acceso a estos recursos para hacer su trabajo. Ahí es donde entran las VPN.

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/Fy7Sc62TXxU)
+
 # Cables y Dispositivos de Red
 
 Muchos cables y dispositivos de red diferentes pueden usarse para permitir que las computadoras se comuniquen correctamente entre sí. Al final de esta lección, podrás identificar y describir diversos cables y dispositivos de red. Las redes de computadoras ocupan una gran parte de la tarea cotidiana de muchos especialistas en TI. Saber diferenciar los diferentes dispositivos de red será esencial para tu éxito.

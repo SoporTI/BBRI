@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/9du4BcIyx30)
+
 **Aviso:** En este video, vamos a diseccionar un segmento TCP. En soporte de TI, si el tráfico de red no se comporta como los usuarios esperan, tal vez debas analizarlo de cerca para solucionar problemas. Por lo tanto, prepárate para husmear el funcionamiento interno.
 
 Así como una trama de Ethernet encapsula un datagrama IP, un datagrama IP encapsula un segmento TCP. Recuerda que una trama de Ethernet tiene una sección de carga útil que, en realidad, es todo el contenido de un datagrama IP. Recuerda también que un datagrama IP tiene una sección de carga útil compuesta por lo que se conoce como un segmento TCP. Un segmento TCP se compone de un encabezado TCP y una sección de datos. Esta sección de datos, como puedes suponer, es solo otra área de carga útil donde la capa de aplicación coloca sus datos.

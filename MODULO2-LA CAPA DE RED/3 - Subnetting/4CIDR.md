@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/f_Mrh6lYX2g)
+
 Las clases de direcciones fueron el primer intento de dividir el espacio IP global de Internet. La división en subredes se introdujo cuando fue evidente que las clases de direcciones en sí mismas no eran tan eficientes para mantener todo organizado. Pero a medida que Internet siguió creciendo, la división tradicional en subredes no pudo seguir el ritmo.
 
 Con las subredes tradicionales y las clases de dirección, la ID de la red siempre es de 8 bits para redes de clase A, 16 bits para redes de clase B, o 24 bits para redes de clase C. Esto significa que solo podría haber 254 redes de clase C, pero también significa que hay 2,970,152 redes de clase C potenciales. Son muchísimas entradas en una tabla de enrutamiento.

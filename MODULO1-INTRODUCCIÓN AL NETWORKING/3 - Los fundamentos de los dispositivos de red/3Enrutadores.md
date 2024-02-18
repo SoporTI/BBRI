@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/kmG8WASIIbY)
+
 Los concentradores y los conmutadores son los dispositivos primarios para conectar computadoras en una red, usualmente conocido como LAN o Local Area Network. Usualmente, queremos mandar o recibir datos de otras computadoras en otras redes. Aquí es donde entran los ruteadores. Un ruteador es un dispositivo que sabe como reenviar datos entre redes independientes. Mientras que un concentrador es un dispositivo de una capa, un conmutadores es de dos capas. Un ruteador opera en la tercera capa, la capa de red. Así como un conmutador puede inspeccionar los datos de Ethernet para determinar adónde manda cosas, un ruteador puede inspeccionar los datos IP para determinar donde manda cosas.
 
 Los ruteadores almacenan tablas internas que contienen información acerca de cómo rutear el tráfico entre las muchas diferentes redes en todo el mundo. El tipo de ruteador más común que verás es el de nuestra red casera o de nuestra oficina. Estos dispositivos generalmente no tienen tablas de ruta muy detalladas. El propósito de estos ruteadores es principalmente tomar el tráfico que se origina desde nuestra LAN dentro de la casa u oficina y reenviarlo al ISP o Internet Service Provider.

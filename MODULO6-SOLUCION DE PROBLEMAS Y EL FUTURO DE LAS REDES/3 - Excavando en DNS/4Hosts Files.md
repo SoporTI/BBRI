@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/aD2zBenT3ss)
+
 Mucho antes de que DNS fuera una tecnología establecida y globalmente disponible, era obvio para los operadores de computadoras que necesitaban un sistema basado en lenguaje para referirse a los dispositivos de red. Ya hablamos de cómo los humanos somos mucho mejores recordando palabras descriptivas que números. Pero los números representan la forma natural en que las computadoras piensan y se comunican.
 
 La forma original en que las direcciones de red numeradas se correlacionaron con las palabras fue a través de archivos de hosts. Un archivo de host es un archivo plano que contiene, en cada línea, una dirección de red seguida del nombre de host a la que puede hacer referencia. Por ejemplo, una línea en un archivo host puede decir "1.2.3.4 webserver". Esto significa que en la computadora donde reside este archivo host, un usuario podría simplemente referirse al servidor web ("webserver") en lugar de la IP 1.2.3.4.

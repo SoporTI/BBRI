@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/-dSIn6kpDvw)
+
 En un momento dado, trabajaba para un **proveedor de servicios gestionados**, que es básicamente una empresa que proporciona soporte de TI para otras empresas. Y estábamos ayudando a uno de nuestros clientes a migrar algunos de sus sistemas a una nueva versión, y cada vez que trataba de iniciar uno de sus servicios, daba un error y se bloqueaba, y el kernel se volcaba en la pantalla, y no podíamos descubrir por qué. 
 
 Finalmente, recibimos apoyo de la empresa que realmente escribe este software, y ellos no pueden resolverlo y eso escala y escala, y al final, tengo el número de teléfono personal del vicepresidente de esta empresa, que es la persona que escribió el software por primera vez. Él y yo pasamos varios días tratando de averiguar lo que sucedía, sin resultado alguno.

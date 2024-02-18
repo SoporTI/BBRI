@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/znhz-OIuvic)
+
 Ahora que conoces los fundamentos de cómo funciona cada capa de nuestro modelo de red, hagamos un ejercicio para ver cómo funciona todo en cada paso del camino. Alerta de spoiler: vamos a hablar un poco como cerebritos, en un buen sentido.
 
 Imagina tres redes. La red A va a contener el espacio de direcciones 10.1.1.0/24. La red B va a contener el espacio de direcciones 192.168.1.0/24, y la red C será 172.16.1.0/24.
